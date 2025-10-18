@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Index - Feria de Viajes</title>
+    <link rel="stylesheet" href="estilos/estilos.css" />
+</head>
+<body>
+<header>
+    <h1>Feria de Viajes - Ycano</h1>
+</header>
+<nav>
+    <a href="index.html">Inicio</a> |
+    <a href="ciudades.html">Ciudades</a> |
+    <a href="conoce mas.html">Conoce mas</a> |
+    <a href="galeria.html">Galería</a> |
+    <a href="contacto.html">Contacto</a>
+</nav>
+<main>
+
+<!-- Página principal -->
+<h2>Ferias y Fiestas en Colombia</h2>
+<p>Disfruta de las ferias y fiestas más importantes en Colombia. Conoce los destinos y actividades que podrás realizar para vivir experiencias inolvidables.</p>
+<ul>
+    <li>Bailes</li>
+    <li>Comida Tipica</li>
+    <li>Historia</li>
+	<a href="https://www.turismocity.com.co/promociones_aereas/p-7_ferias_y_fiestas_que_se_celebraran_en_colombia_en_el_2023-6114.html">ver</a>
+</ul>
+
+</main>
+<footer>
+    <p>&copy; 2025 Feria de Viajes - Proyecto Ycano</p>
+</footer>
+</body>
+</html>
