@@ -1,0 +1,50 @@
+
+/* estilos/estilos.css - Estilo clásico azul y blanco */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f8ff;
+    color: #003366;
+    margin: 0;
+    padding: 0;
+}
+
+header, nav, footer {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+    text-align: justify;
+}
+
+h1, h2 {
+    color: #003366;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table, th, td {
+    border: 1px solid #003366;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
